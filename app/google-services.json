@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471394510900",
+    "project_id": "gstorex-3f900",
+    "storage_bucket": "gstorex-3f900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471394510900:android:0ac2877540f45212774261",
+        "android_client_info": {
+          "package_name": "com.gstorex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471394510900-5at5ni73cuk92olptu6c3jcthh54npvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Iv3YNNcSH3hmk5ZEOfOWeCHRK9NuV-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471394510900-5at5ni73cuk92olptu6c3jcthh54npvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

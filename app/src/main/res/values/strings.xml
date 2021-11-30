@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gstorex</string>
+    <string name="text_moto">Shop Online Anywhere</string>
+    <string name="login">Recover Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="edit_profile">Edit Profile </string>
+    <string name="seller_dashboard">Seller Dashboard</string>
+    <string name="user_dashboard">User Dashboard</string>
+
+
+</resources>
