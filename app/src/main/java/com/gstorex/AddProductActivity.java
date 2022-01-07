@@ -71,7 +71,7 @@ public class AddProductActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_product);
 
-        //init views
+        //init ui views
         backBtn = findViewById(R.id.backBtn);
         productIconIv = findViewById(R.id.productIconIv);
         titleEt = findViewById(R.id.titleEt);
